@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    margin: 1% 10% 0% 10%;
+}
+
+h1, h3, h5, p, a {
+    color: orange;
+    text-align: center;  
+}
+
+#flag {
+    float: left;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+}
+
+a img {
+    width: 30px;
+    height: 30px;
+}
+
+#data {
+    float: left;
+}
+
+#countries {
+    width: 10%;
+}
+
+span {
+    size: 15px;
+}
+
+img {
+    height: 30px;
+}
+
+
+
